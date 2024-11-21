@@ -83,21 +83,6 @@ Ensure you have the following installed:
 
     yarn preview
 
-## 📂 Project Structure
-
-rawg-clone/
-├── public/ # Static assets (e.g., images, icons)
-├── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Page-level components
-│ ├── hooks/ # Custom React hooks
-│ ├── utils/ # Utility functions
-│ ├── App.tsx # Main application component
-│ ├── main.tsx # Application entry point
-│ └── theme.ts # Chakra UI theme configuration
-├── package.json # Dependencies and scripts
-├── tsconfig.json # TypeScript configuration
-└── vite.config.ts # Vite configuration
 
 🙌 Acknowledgments
 RAWG.io: For the inspiration and game data.
