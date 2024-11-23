@@ -22,10 +22,9 @@ const GameGrid = ({ gameQuery }: Props) => {
           md: 2,
           lg: 3,
           xl: 4,
-          "2xl": 5,
         }}
         padding={"10px"}
-        spacing={5}
+        spacing={6}
         alignItems={"center"}
       >
         {isLoading &&
