@@ -2,7 +2,7 @@
 
 A blazing-fast, modern video game discovery app inspired by RAWG.io. Built with **Vite**, **React**, **TypeScript**, and **Chakra UI**, this app combines sleek design with powerful features to let you explore, search, and learn about your favorite games effortlessly.
 
-🚀 **Live Demo**: []  
+🚀 **Live Demo**: [https://game-hub-yilikaltesfaye.vercel.app/]  
 📦 **Repository**: [https://github.com/yilikaltesfaye/game-hub]
 
 ---
