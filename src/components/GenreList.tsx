@@ -19,12 +19,9 @@ const GenreList = ({ onSelectGenre, selectedGenre }: Props) => {
 
   if (error) return null;
   if (isLoading) return <Spinner />;
-  //   const skeletons = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
   return (
     <>
       <List>
-        {/* {isLoading &&
-          skeletons.map((skeleton) => <SkeletonText key={skeleton} />)} */}
         {data.map((genre) => (
           <ListItem key={genre.id} paddingY={"5px"}>
             <HStack>
